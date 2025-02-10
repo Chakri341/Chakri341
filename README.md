@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Potluru Chakradhar</h1>
+<h1 align="center">👋 Hi, I'm Chakradhar Potluru </h1>
 
 <h3 align="center">A passionate Web and Mobile Developer from India </h3>
 <br>🌱 I’m currently learning React Native, React Js,  Next JS, Typescript<br>💬 Ask me about MERN<br>
