@@ -26,9 +26,9 @@
   <a href="https://discord.gg/chakri3536">
     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/in/chakradhar-potluru-46741a243/">
+<!--   <a href="https://www.linkedin.com/in/chakradhar-potluru-46741a243/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn">
-  </a>
+  </a> -->
   <a href="https://x.com/potluruchakrad1">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter/X">
   </a>
