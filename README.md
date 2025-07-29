@@ -29,7 +29,7 @@
 <!--   <a href="https://www.linkedin.com/in/chakradhar-potluru-46741a243/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn">
   </a> -->
-  <a href="https://x.com/potluruchakrad1">
+  <a href="https://x.com/cr_codes">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter/X">
   </a>
 </p>
