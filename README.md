@@ -23,15 +23,18 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://discord.gg/chakri3536">
+<!--   <a href="https://discord.gg/chakri3536">
     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
-  </a>
+  </a> -->
 <!--   <a href="https://www.linkedin.com/in/chakradhar-potluru-46741a243/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn">
   </a> -->
-  <a href="https://x.com/cr_codes">
+<!--   <a href="https://x.com/cr_codes">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter/X">
-  </a>
+  </a> -->
+  <br>
+  <strong>Discord:</strong> chakri3536 
+  <br>
 </p>
 
 
