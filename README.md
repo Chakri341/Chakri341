@@ -6,7 +6,7 @@
       <td>
         <h2>🚀 About Me</h2>
         <p>
-          💼 Open tozWork
+          💼 Actively looking for opportunities <br>
           👨‍💻 Passionate <b>Web and Mobile Developer</b> from India <br>
           🌱 Currently learning <b>React Native, React.js, Next.js, TypeScript</b> <br>
           💬 Ask me about <b>MERN Stack Development</b> <br>
